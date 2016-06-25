@@ -1,7 +1,7 @@
 # splice
 A library for splicing together sequences of tweens, callbacks, etc. in Unity 3D.
 
-Spice comes with an integration for LeanTween but could be extended to use any other tweening library, or perform tasks other than tweening.
+Splice comes with an integration for LeanTween but could be extended to use any other tweening library, or perform tasks other than tweening.
 
 Here's a simple example. It scales a game object up and back again, twice. At the same time, it waits for the scale to reach 1.5x and then moves the game object to a new position, waits for 2 seconds, and then moves it back.
 
